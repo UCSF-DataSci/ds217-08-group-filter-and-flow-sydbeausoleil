@@ -1,3 +1,7 @@
+Assignment 8 - Question 1
+
+q1_aggregation_report.txt
+
      encounter_id patient_id provider_id facility_id encounter_date        encounter_type diagnosis_code  procedure_code  service_charge  insurance_paid  patient_paid region_x     provider_name        provider_type           specialty  years_experience license_number                facility_name     facility_type region_y  beds established_date  facility_mean_years_experience  facility_std_years_experience  normalized_years_experience  facility_total_encounter_charges
 0        ENC00001   PAT01564      PR0259      FAC004     2023-08-21          Office Visit          M79.3           99213          345.03          290.33         54.70     West    Quinn Anderson                Nurse          Pediatrics                11      LIC000259        Northside Urgent Care       Urgent Care     West   313       1994-10-04                       20.137014                      10.581439                    -0.863495                         297283.06
 1        ENC00002   PAT00296      PR0258      FAC001     2023-09-11             Inpatient          N18.9           85025          550.48          482.51         67.97    South     Drew Martinez            Therapist       Endocrinology                19      LIC000258        City General Hospital       Urgent Care    South   276       1999-11-27                       19.563008                      10.702137                    -0.052607                         295508.13
